@@ -1,14 +1,28 @@
 {
   "name": "ducke-theme",
-  "displayName": "ducke-theme",
+  "displayName": "Ducke Theme",
   "description": "Ducke Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.89.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ducke-consultoria/vscode-ducke-theme"
+  },
+  "keywords": [
+    "ducke",
+    "theme",
+    "dark",
+    "yellow",
+    "dark-yellow"
+  ],
+  "publisher": "Donwaztok",
+  "license": "GPL-3.0-or-later",
   "contributes": {
     "themes": [
       {
