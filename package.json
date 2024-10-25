@@ -2,7 +2,7 @@
   "name": "ducke-theme",
   "displayName": "Ducke Theme",
   "description": "Ducke Theme",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "vscode": "^1.89.0"
   },
