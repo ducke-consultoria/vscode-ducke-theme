@@ -2,7 +2,7 @@
   "name": "ducke-theme",
   "displayName": "Ducke Theme",
   "description": "Ducke Theme",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -16,6 +16,7 @@
   },
   "keywords": [
     "ducke",
+    "ducke-theme",
     "theme",
     "dark",
     "yellow",
